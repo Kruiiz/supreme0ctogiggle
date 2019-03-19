@@ -1,0 +1,56 @@
+/* Ref:  http://www.w3schools.com/css/css_syntax.asp */
+
+body, html { /* General style rules for the body section */
+	height:100%;
+	width:100%;
+	background-color: lightpink;
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	text-decoration: underline;
+}
+
+#div1 { /* Matches element with id=SimpleDiv */
+	 background-color: maroon;
+	 font-style: oblique;
+	 color: lightpink;
+
+
+	border-style: solid groove;
+  border-width: 5px;
+	border-color: hotpink;
+	margin: 5%;
+	padding: 6px;
+}
+
+#div2 { /* Matches element with id=SimpleDiv */
+ 	background-color: orange;
+	font-style: italic;
+	color: white;
+	margin: 5%;
+	padding: 6px;
+	float: left;
+	width:20%;
+}
+
+#div3 { /* Matches element with id=SimpleDiv */
+		background-color: lightblue;
+		font-style: italic;
+		color: white;
+		margin: 5%;
+		padding: 6px;
+		float: right;
+		width: 50%;
+}
+
+
+#div4 { /* Matches element with id=SimpleDiv */
+	 	background-color: violet;
+		font-style: italic;
+		color: white;
+		margin: 5%;
+		padding: 6px;
+		clear: both;
+}
