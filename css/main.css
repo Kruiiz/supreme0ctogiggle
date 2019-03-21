@@ -5,6 +5,7 @@ body, html { /* General style rules for the body section */
 	width:100%;
 	background-color: lightpink;
 	text-align: center;
+	font-family:
 }
 
 h1 {
@@ -13,21 +14,22 @@ h1 {
 }
 
 #div1 { /* Matches element with id=SimpleDiv */
-	 background-color: maroon;
 	 font-style: oblique;
-	 color: lightpink;
+	 color: white;
 
 
 	border-style: solid groove;
   border-width: 5px;
-	border-color: hotpink;
+	border-color: grey;
 	margin: 5%;
 	padding: 6px;
 }
 
 #div2 { /* Matches element with id=SimpleDiv */
- 	background-color: orange;
-	font-style: italic;
+background-color: lightpink
+	font-family: fantasy;
+	border-style: solid groove;
+
 	color: white;
 	margin: 5%;
 	padding: 6px;
@@ -36,7 +38,7 @@ h1 {
 }
 
 #div3 { /* Matches element with id=SimpleDiv */
-		background-color: lightblue;
+		background-color: black;
 		font-style: italic;
 		color: white;
 		margin: 5%;
