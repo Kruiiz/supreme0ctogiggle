@@ -5,6 +5,7 @@ body, html { /* General style rules for the body section */
 	width:100%;
 	background-color: lightpink;
 	text-align: center;
+	font-family:
 }
 
 h1 {
@@ -13,9 +14,8 @@ h1 {
 }
 
 #div1 { /* Matches element with id=SimpleDiv */
-	 background-color: maroon;
 	 font-style: oblique;
-	 color: lightpink;
+	 color: white;
 
 
 	border-style: solid groove;
