@@ -3,9 +3,14 @@
 body, html { /* General style rules for the body section */
 	height:100%;
 	width:100%;
-	background-color: lightpink;
+	background-color: black;
 	text-align: center;
 	font-family:
+}
+
+#div666 {
+	background-color: black;
+	color:white;
 }
 
 h1 {
