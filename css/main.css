@@ -32,6 +32,12 @@ h1 {
 	vertical-align: middle;
 }
 
+#dystopiadiv {
+	font-style: oblique;
+	color: white;
+
+}
+
 #left-div { /* Matches element with id=SimpleDiv */
 background-color: lightpink;
   opacity: 0.80;
