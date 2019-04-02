@@ -1,7 +1,7 @@
 /* Ref:  http://www.w3schools.com/css/css_syntax.asp */
 @import url('https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei');
 
-body {
+body, html {
 	background-image: url(/images/intropagebackground.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
