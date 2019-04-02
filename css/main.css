@@ -1,6 +1,12 @@
 /* Ref:  http://www.w3schools.com/css/css_syntax.asp */
 @import url('https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei');
 
+body {
+	background-image: url(/images/intropagebackground.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 body, html { /* General style rules for the body section */
 	height:100%;
 	width:100%;
